@@ -1,6 +1,7 @@
 # traveler
 
-An App for trvelling
+An App for trvelling.
+Design Credit - https://dribbble.com/shots/6611672-Travel-App/attachments
 
 ## Getting Started
 
